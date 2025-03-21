@@ -61,11 +61,14 @@ streamlit run Dashboard/Dashboard.py
 ```
 ## Cara Menjalankan File IPNYB Jupyter Notebook | Google COLAB
  - Buka terminal/command prompt dan masuk ke direktori proyek.
- - Jalankan perintah berikut untuk membuka Jupyter Notebook:
+ ##### Jalankan perintah berikut untuk membuka Jupyter Notebook:
   ```
  jupyter notebook
   ```
  - Buka file MWP_Proyek_Analisis_Data.ipynb dan jalankan sel-sel secara berurutan.
+   
+ ##### Untuk Menjalankan Di GOOGLE COLAB :
+ - Kalian tinggal download MWP_Proyek_Analisis_Data.ipynb dan `run all`
 
 ## Dataset
 Dataset yang digunakan dalam proyek ini adalah:
